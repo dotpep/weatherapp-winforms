@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "axO/IK9oTaVAvmYSdShK6HQybWwI7yQsthG6xN9OfvM5R8I6zvTQ0GQsbptIad0oIT8nliqC4lUDYgJS+//aGA==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Pet_project\\WinForms\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pepel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
